@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{84C0439A-B05A-4BFC-A73E-BA1F99953814}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mazes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiagonalMazeTask.cs">
+    <Files>
+      <File FileName="EmptyMazeTask.cs" Line="17" Column="10" />
+      <File FileName="SnakeMazeTask.cs" Line="36" Column="2" />
+      <File FileName="DiagonalMazeTask.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mazes" expanded="True">
+            <Node name="Mazes" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

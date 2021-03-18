@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1BE7005E-6AE9-4587-9FE7-62EE40CE3E4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragonFractalTask.cs">
+    <Files>
+      <File FileName="DragonFractalTask.cs" Line="13" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DragonFractal" expanded="True">
+            <Node name="DragonFractal" expanded="True">
+              <Node name="DragonFractalTask.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DragonFractal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
