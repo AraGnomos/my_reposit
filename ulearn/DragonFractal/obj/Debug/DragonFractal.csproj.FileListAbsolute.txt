@@ -1,0 +1,7 @@
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/bin/Debug/DragonFractal.exe.config
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/bin/Debug/DragonFractal.exe
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/bin/Debug/DragonFractal.pdb
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/obj/Debug/DragonFractal.csprojAssemblyReference.cache
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/obj/Debug/DragonFractal.csproj.CoreCompileInputs.cache
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/obj/Debug/DragonFractal.exe
+/home/enovo/My_project/my_reposit/ulearn/DragonFractal/obj/Debug/DragonFractal.pdb
